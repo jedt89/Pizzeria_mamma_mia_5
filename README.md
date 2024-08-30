@@ -5,7 +5,11 @@
 
 
 # Deploy 🛜
-➡️ https://jedt89.github.io/Pizzeria_mamma_mia_5
+
+➡️ Este proyecto ya cuenta con un servicio de backend incluido, al ejecutar la app en modo dev, se ejecutará el back y front simultáneamente
+
+➡️ npm run dev
+
 
 🧒 USER: 1234567
 
